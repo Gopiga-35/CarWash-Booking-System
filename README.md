@@ -13,14 +13,7 @@ This project allows administrators to manage car wash bookings and provides case
 - JSP-based user interface for booking display and management.
 ---
 
-## Technologies Used
-
-- **Java Servlets & JSP**
-- **HTML / CSS**
-- **Oracle  Database**
-- **JDBC** for database connectivity
-- **Eclipse IDE** for development
----
+# output:
 
 <img width="676" height="368" alt="image" src="https://github.com/user-attachments/assets/f1b6100a-338f-456a-870a-1784f26312bb" />
 
